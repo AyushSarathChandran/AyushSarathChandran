@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
+
 # 💫 About Me:
 🧑‍💻A Passionate full-stack developer with a love for clean code, seamless user experiences, and scalable systems. Skilled in React, Python, and backend APIs. Actively contributing to open-source projects and continuously learning to build better web experiences.<br>🌱 Currently diving deeper into React.js and exploring the world of 3D with Three.js. Also beginning my journey into AI/ML, one model at a time.<br>🤝 Actively seeking internship and job opportunities to grow my skills and gain hands-on experience in the field I’m passionate about.<br>
 
