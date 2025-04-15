@@ -12,6 +12,30 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=AyushSarathChandran&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushSarathChandran&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+# 💽 Projects:
+Product review system using NLP| Django, NLP, Python        
+• Developed a product review system using NLP, HTML, CSS, Django, can be used in Realtime. 
+• This project analyzes YouTube product review videos to extract semantic insights and sentiment evaluations. It aims 
+to provide users with a quick and accurate understanding of a product's overall reception, streamlining the 
+decision-making process. 
+• Implemented a robust backend using Django, ensuring seamless communication between the client and server.  
+ 
+Machine Learning based Candidate Recommendation System using Bayesian Model | React, Node.js, Python, NLP   
+• Created a visually appealing and responsive user interface using React.  
+• Developed a Candidate Recommendation System using NLP, HTML, CSS, React, can be used in Realtime. 
+• A research paper on this project has been submitted to IEEE and can be accessed at the following link: 
+[https://ieeexplore.ieee.org/abstract/document/10085615]. 
+
+Movie App | React, TMDB API, Javascript, Tilwind CSS
+• Built a visually engaging movie app using the TMDB API, featuring optimized search functionality and sleek UI powered by Tailwind CSS.
+
+# 🏆 Certifications:
+• PCAP – PYTHON PROGRAMMING 
+• NETACAD - Introduction to Cyber Security(Course) 
+• Oracle java certification 
+• NPTEL SWYAM course certification for machine learning from IIT madras 
+• Microsoft learn web development workshop
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
