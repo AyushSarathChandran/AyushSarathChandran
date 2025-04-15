@@ -1,4 +1,4 @@
-https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif
+(https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
 # 💫 About Me:
 🧑‍💻A Passionate full-stack developer with a love for clean code, seamless user experiences, and scalable systems. Skilled in React, Python, and backend APIs. Actively contributing to open-source projects and continuously learning to build better web experiences.<br>🌱 Currently diving deeper into React.js and exploring the world of 3D with Three.js. Also beginning my journey into AI/ML, one model at a time.<br>🤝 Actively seeking internship and job opportunities to grow my skills and gain hands-on experience in the field I’m passionate about.<br>
