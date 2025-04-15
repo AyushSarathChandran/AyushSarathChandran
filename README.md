@@ -31,9 +31,13 @@ Movie App | React, TMDB API, Javascript, Tilwind CSS
 
 # 🏆 Certifications:
 • PCAP – PYTHON PROGRAMMING 
+
 • NETACAD - Introduction to Cyber Security(Course) 
+
 • Oracle java certification 
+
 • NPTEL SWYAM course certification for machine learning from IIT madras 
+
 • Microsoft learn web development workshop
 
 ### ✍️ Random Dev Quote
